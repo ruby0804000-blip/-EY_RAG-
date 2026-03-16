@@ -20,5 +20,3 @@
 4. 執行 `python build_rag_db.py`
 5. 執行 `python rag_chat.py`
 
-## 備註
-若 `chunks_dataset.csv` 未放在 GitHub，請先從小組共用雲端下載後放到 `EY_RAG` 資料夾中。
